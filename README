@@ -13,7 +13,7 @@ This is a simple Node.js timer application that allows you to set a timer for a 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone
+   git clone https://github.com/Suleman1411/typescript-nodejs-countdown-timer
    ```
 
 2. Change to the project directory:
