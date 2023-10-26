@@ -33,7 +33,7 @@ This is a simple Node.js timer application that allows you to set a timer for a 
 To start the timer, run the following command:
 
 ```bash
-npm index.js
+node index.js
 ```
 
 You will be prompted to enter the number of seconds for the timer. The timer will start counting down, and the remaining time will be displayed in the console. Once the timer expires, a message will be shown, and the application will exit.
